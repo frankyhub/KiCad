@@ -1,0 +1,13 @@
+Stückliste Lötübung Astabile
+
+1x Batterieclip
+1x 9V Batterie
+1x Platine
+4x LED rot
+4x BC548 NPN
+4x 100uF
+4x 10k
+4x 470R (510R)
+
+1x 8pol IC
+

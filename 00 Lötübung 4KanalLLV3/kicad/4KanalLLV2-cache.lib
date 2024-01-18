@@ -1,0 +1,16 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# !PCB-Fräse_LP-PCB-Fräse
+#
+DEF !PCB-Fräse_LP-PCB-Fräse U 0 40 Y Y 1 F N
+F0 "U" -250 250 50 H I C CNN
+F1 "!PCB-Fräse_LP-PCB-Fräse" 0 150 50 H I C CNN
+F2 "!Goody:LP_PCB-Fräse" -200 350 50 H I C CNN
+F3 "" -150 350 50 H I C CNN
+DRAW
+X ~ 1 -50 -50 100 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

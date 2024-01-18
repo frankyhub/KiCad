@@ -1,0 +1,627 @@
+EESchema Schematic File Version 5
+EELAYER 43 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+Comment5 ""
+Comment6 ""
+Comment7 ""
+Comment8 ""
+Comment9 ""
+$EndDescr
+Connection ~ 2850 1500
+Connection ~ 2850 3150
+Connection ~ 2850 4200
+Connection ~ 3200 1500
+Connection ~ 3200 3150
+Connection ~ 3650 1500
+Connection ~ 3650 3150
+Connection ~ 3650 4200
+Connection ~ 4000 1500
+Connection ~ 4000 3150
+Connection ~ 4400 1500
+Connection ~ 4400 3150
+Connection ~ 4400 4200
+Connection ~ 4750 1500
+Connection ~ 4750 3150
+Connection ~ 5200 1500
+Connection ~ 5200 3150
+Connection ~ 5550 3150
+Wire Wire Line
+	2200 1500 2850 1500
+Wire Wire Line
+	2200 2050 2200 1500
+Wire Wire Line
+	2200 2600 2450 2600
+Wire Wire Line
+	2200 4000 2600 4000
+Wire Wire Line
+	2200 4700 2200 4000
+Wire Wire Line
+	2450 2600 2450 4200
+Wire Wire Line
+	2450 4200 2850 4200
+Wire Wire Line
+	2850 1500 3200 1500
+Wire Wire Line
+	2850 1850 2850 2350
+Wire Wire Line
+	2850 2700 2850 3150
+Wire Wire Line
+	2850 3150 2850 3800
+Wire Wire Line
+	3200 1500 3650 1500
+Wire Wire Line
+	3200 1850 3200 3150
+Wire Wire Line
+	3200 3150 3200 4000
+Wire Wire Line
+	3200 4000 3400 4000
+Wire Wire Line
+	3650 1500 4000 1500
+Wire Wire Line
+	3650 1850 3650 2350
+Wire Wire Line
+	3650 2700 3650 3150
+Wire Wire Line
+	3650 3150 3650 3800
+Wire Wire Line
+	3650 4200 2850 4200
+Wire Wire Line
+	3650 4200 4400 4200
+Wire Wire Line
+	4000 1500 4400 1500
+Wire Wire Line
+	4000 1850 4000 3150
+Wire Wire Line
+	4000 3150 4000 4000
+Wire Wire Line
+	4000 4000 4150 4000
+Wire Wire Line
+	4400 1500 4750 1500
+Wire Wire Line
+	4400 1850 4400 2350
+Wire Wire Line
+	4400 3150 4400 2700
+Wire Wire Line
+	4400 3800 4400 3150
+Wire Wire Line
+	4750 1500 5200 1500
+Wire Wire Line
+	4750 1850 4750 3150
+Wire Wire Line
+	4750 3150 4750 4000
+Wire Wire Line
+	4750 4000 4950 4000
+Wire Wire Line
+	5200 1500 5550 1500
+Wire Wire Line
+	5200 1850 5200 2350
+Wire Wire Line
+	5200 3150 5200 2700
+Wire Wire Line
+	5200 3150 5200 3800
+Wire Wire Line
+	5200 4200 4400 4200
+Wire Wire Line
+	5550 1850 5550 3150
+Wire Wire Line
+	5550 3150 5550 4700
+Wire Wire Line
+	5550 4700 2200 4700
+$Comp
+L 4KanalLLV2-rescue:LP-PCB-Fräse-!PCB-Fräse U1
+U 1 1 613ECE70
+P 2250 2000
+F 0 "U1" H 2000 2250 50  0001 C CNN
+F 1 "LP-PCB-Fräse" H 2250 2150 50  0001 C CNN
+F 2 "!Goody:LP_PCB-Fräse" H 2050 2350 50  0001 C CNN
+F 3 "" H 2100 2350 50  0001 C CNN
+	1    2250 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L 4KanalLLV2-rescue:LP-PCB-Fräse-!PCB-Fräse U2
+U 1 1 613ED5AB
+P 2250 2550
+F 0 "U2" H 2000 2800 50  0001 C CNN
+F 1 "LP-PCB-Fräse" H 2250 2700 50  0001 C CNN
+F 2 "!Goody:LP_PCB-Fräse" H 2050 2900 50  0001 C CNN
+F 3 "" H 2100 2900 50  0001 C CNN
+	1    2250 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L 4KanalLLV2-rescue:LP-PCB-Fräse-!PCB-Fräse U3
+U 1 1 613F869A
+P 2650 4050
+F 0 "U3" H 2400 4300 50  0001 C CNN
+F 1 "LP-PCB-Fräse" H 2650 4200 50  0001 C CNN
+F 2 "!Goody:LP_PCB-Fräse" H 2450 4400 50  0001 C CNN
+F 3 "" H 2500 4400 50  0001 C CNN
+	1    2650 4050
+	0    1    1    0   
+$EndComp
+$Comp
+L 4KanalLLV2-rescue:LP-PCB-Fräse-!PCB-Fräse U4
+U 1 1 613ED914
+P 2900 1550
+F 0 "U4" H 2650 1800 50  0001 C CNN
+F 1 "LP-PCB-Fräse" H 2900 1700 50  0001 C CNN
+F 2 "!Goody:LP_PCB-Fräse" H 2700 1900 50  0001 C CNN
+F 3 "" H 2750 1900 50  0001 C CNN
+	1    2900 1550
+	0    1    1    0   
+$EndComp
+$Comp
+L 4KanalLLV2-rescue:LP-PCB-Fräse-!PCB-Fräse U5
+U 1 1 613F1FDB
+P 2900 1900
+F 0 "U5" H 2650 2150 50  0001 C CNN
+F 1 "LP-PCB-Fräse" H 2900 2050 50  0001 C CNN
+F 2 "!Goody:LP_PCB-Fräse" H 2700 2250 50  0001 C CNN
+F 3 "" H 2750 2250 50  0001 C CNN
+	1    2900 1900
+	0    1    1    0   
+$EndComp
+$Comp
+L 4KanalLLV2-rescue:LP-PCB-Fräse-!PCB-Fräse U6
+U 1 1 613F5FF1
+P 2900 2400
+F 0 "U6" H 2650 2650 50  0001 C CNN
+F 1 "LP-PCB-Fräse" H 2900 2550 50  0001 C CNN
+F 2 "!Goody:LP_PCB-Fräse" H 2700 2750 50  0001 C CNN
+F 3 "" H 2750 2750 50  0001 C CNN
+	1    2900 2400
+	0    1    1    0   
+$EndComp
+$Comp
+L 4KanalLLV2-rescue:LP-PCB-Fräse-!PCB-Fräse U7
+U 1 1 613F6021
+P 2900 2750
+F 0 "U7" H 2650 3000 50  0001 C CNN
+F 1 "LP-PCB-Fräse" H 2900 2900 50  0001 C CNN
+F 2 "!Goody:LP_PCB-Fräse" H 2700 3100 50  0001 C CNN
+F 3 "" H 2750 3100 50  0001 C CNN
+	1    2900 2750
+	0    1    1    0   
+$EndComp
+$Comp
+L 4KanalLLV2-rescue:LP-PCB-Fräse-!PCB-Fräse U8
+U 1 1 613F6B8F
+P 2900 3200
+F 0 "U8" H 2650 3450 50  0001 C CNN
+F 1 "LP-PCB-Fräse" H 2900 3350 50  0001 C CNN
+F 2 "!Goody:LP_PCB-Fräse" H 2700 3550 50  0001 C CNN
+F 3 "" H 2750 3550 50  0001 C CNN
+	1    2900 3200
+	0    1    1    0   
+$EndComp
+$Comp
+L 4KanalLLV2-rescue:LP-PCB-Fräse-!PCB-Fräse U9
+U 1 1 613F8694
+P 2900 3850
+F 0 "U9" H 2650 4100 50  0001 C CNN
+F 1 "LP-PCB-Fräse" H 2900 4000 50  0001 C CNN
+F 2 "!Goody:LP_PCB-Fräse" H 2700 4200 50  0001 C CNN
+F 3 "" H 2750 4200 50  0001 C CNN
+	1    2900 3850
+	0    1    1    0   
+$EndComp
+$Comp
+L 4KanalLLV2-rescue:LP-PCB-Fräse-!PCB-Fräse U10
+U 1 1 613F8ECA
+P 2900 4250
+F 0 "U10" H 2650 4500 50  0001 C CNN
+F 1 "LP-PCB-Fräse" H 2900 4400 50  0001 C CNN
+F 2 "!Goody:LP_PCB-Fräse" H 2700 4600 50  0001 C CNN
+F 3 "" H 2750 4600 50  0001 C CNN
+	1    2900 4250
+	0    1    1    0   
+$EndComp
+$Comp
+L 4KanalLLV2-rescue:LP-PCB-Fräse-!PCB-Fräse U11
+U 1 1 613EDD70
+P 3250 1550
+F 0 "U11" H 3000 1800 50  0001 C CNN
+F 1 "LP-PCB-Fräse" H 3250 1700 50  0001 C CNN
+F 2 "!Goody:LP_PCB-Fräse" H 3050 1900 50  0001 C CNN
+F 3 "" H 3100 1900 50  0001 C CNN
+	1    3250 1550
+	0    1    1    0   
+$EndComp
+$Comp
+L 4KanalLLV2-rescue:LP-PCB-Fräse-!PCB-Fräse U12
+U 1 1 613F1FE1
+P 3250 1900
+F 0 "U12" H 3000 2150 50  0001 C CNN
+F 1 "LP-PCB-Fräse" H 3250 2050 50  0001 C CNN
+F 2 "!Goody:LP_PCB-Fräse" H 3050 2250 50  0001 C CNN
+F 3 "" H 3100 2250 50  0001 C CNN
+	1    3250 1900
+	0    1    1    0   
+$EndComp
+$Comp
+L 4KanalLLV2-rescue:LP-PCB-Fräse-!PCB-Fräse U13
+U 1 1 613F6B95
+P 3250 3200
+F 0 "U13" H 3000 3450 50  0001 C CNN
+F 1 "LP-PCB-Fräse" H 3250 3350 50  0001 C CNN
+F 2 "!Goody:LP_PCB-Fräse" H 3050 3550 50  0001 C CNN
+F 3 "" H 3100 3550 50  0001 C CNN
+	1    3250 3200
+	0    1    1    0   
+$EndComp
+$Comp
+L 4KanalLLV2-rescue:LP-PCB-Fräse-!PCB-Fräse U14
+U 1 1 613F9C56
+P 3450 4050
+F 0 "U14" H 3200 4300 50  0001 C CNN
+F 1 "LP-PCB-Fräse" H 3450 4200 50  0001 C CNN
+F 2 "!Goody:LP_PCB-Fräse" H 3250 4400 50  0001 C CNN
+F 3 "" H 3300 4400 50  0001 C CNN
+	1    3450 4050
+	0    1    1    0   
+$EndComp
+$Comp
+L 4KanalLLV2-rescue:LP-PCB-Fräse-!PCB-Fräse U15
+U 1 1 613EE088
+P 3700 1550
+F 0 "U15" H 3450 1800 50  0001 C CNN
+F 1 "LP-PCB-Fräse" H 3700 1700 50  0001 C CNN
+F 2 "!Goody:LP_PCB-Fräse" H 3500 1900 50  0001 C CNN
+F 3 "" H 3550 1900 50  0001 C CNN
+	1    3700 1550
+	0    1    1    0   
+$EndComp
+$Comp
+L 4KanalLLV2-rescue:LP-PCB-Fräse-!PCB-Fräse U16
+U 1 1 613F1FE7
+P 3700 1900
+F 0 "U16" H 3450 2150 50  0001 C CNN
+F 1 "LP-PCB-Fräse" H 3700 2050 50  0001 C CNN
+F 2 "!Goody:LP_PCB-Fräse" H 3500 2250 50  0001 C CNN
+F 3 "" H 3550 2250 50  0001 C CNN
+	1    3700 1900
+	0    1    1    0   
+$EndComp
+$Comp
+L 4KanalLLV2-rescue:LP-PCB-Fräse-!PCB-Fräse U17
+U 1 1 613F5FFD
+P 3700 2400
+F 0 "U17" H 3450 2650 50  0001 C CNN
+F 1 "LP-PCB-Fräse" H 3700 2550 50  0001 C CNN
+F 2 "!Goody:LP_PCB-Fräse" H 3500 2750 50  0001 C CNN
+F 3 "" H 3550 2750 50  0001 C CNN
+	1    3700 2400
+	0    1    1    0   
+$EndComp
+$Comp
+L 4KanalLLV2-rescue:LP-PCB-Fräse-!PCB-Fräse U18
+U 1 1 613F602D
+P 3700 2750
+F 0 "U18" H 3450 3000 50  0001 C CNN
+F 1 "LP-PCB-Fräse" H 3700 2900 50  0001 C CNN
+F 2 "!Goody:LP_PCB-Fräse" H 3500 3100 50  0001 C CNN
+F 3 "" H 3550 3100 50  0001 C CNN
+	1    3700 2750
+	0    1    1    0   
+$EndComp
+$Comp
+L 4KanalLLV2-rescue:LP-PCB-Fräse-!PCB-Fräse U19
+U 1 1 613F7758
+P 3700 3200
+F 0 "U19" H 3450 3450 50  0001 C CNN
+F 1 "LP-PCB-Fräse" H 3700 3350 50  0001 C CNN
+F 2 "!Goody:LP_PCB-Fräse" H 3500 3550 50  0001 C CNN
+F 3 "" H 3550 3550 50  0001 C CNN
+	1    3700 3200
+	0    1    1    0   
+$EndComp
+$Comp
+L 4KanalLLV2-rescue:LP-PCB-Fräse-!PCB-Fräse U20
+U 1 1 613F9C50
+P 3700 3850
+F 0 "U20" H 3450 4100 50  0001 C CNN
+F 1 "LP-PCB-Fräse" H 3700 4000 50  0001 C CNN
+F 2 "!Goody:LP_PCB-Fräse" H 3500 4200 50  0001 C CNN
+F 3 "" H 3550 4200 50  0001 C CNN
+	1    3700 3850
+	0    1    1    0   
+$EndComp
+$Comp
+L 4KanalLLV2-rescue:LP-PCB-Fräse-!PCB-Fräse U21
+U 1 1 613F9C5C
+P 3700 4250
+F 0 "U21" H 3450 4500 50  0001 C CNN
+F 1 "LP-PCB-Fräse" H 3700 4400 50  0001 C CNN
+F 2 "!Goody:LP_PCB-Fräse" H 3500 4600 50  0001 C CNN
+F 3 "" H 3550 4600 50  0001 C CNN
+	1    3700 4250
+	0    1    1    0   
+$EndComp
+$Comp
+L 4KanalLLV2-rescue:LP-PCB-Fräse-!PCB-Fräse U22
+U 1 1 613EE41D
+P 4050 1550
+F 0 "U22" H 3800 1800 50  0001 C CNN
+F 1 "LP-PCB-Fräse" H 4050 1700 50  0001 C CNN
+F 2 "!Goody:LP_PCB-Fräse" H 3850 1900 50  0001 C CNN
+F 3 "" H 3900 1900 50  0001 C CNN
+	1    4050 1550
+	0    1    1    0   
+$EndComp
+$Comp
+L 4KanalLLV2-rescue:LP-PCB-Fräse-!PCB-Fräse U23
+U 1 1 613F1FED
+P 4050 1900
+F 0 "U23" H 3800 2150 50  0001 C CNN
+F 1 "LP-PCB-Fräse" H 4050 2050 50  0001 C CNN
+F 2 "!Goody:LP_PCB-Fräse" H 3850 2250 50  0001 C CNN
+F 3 "" H 3900 2250 50  0001 C CNN
+	1    4050 1900
+	0    1    1    0   
+$EndComp
+$Comp
+L 4KanalLLV2-rescue:LP-PCB-Fräse-!PCB-Fräse U24
+U 1 1 613F775E
+P 4050 3200
+F 0 "U24" H 3800 3450 50  0001 C CNN
+F 1 "LP-PCB-Fräse" H 4050 3350 50  0001 C CNN
+F 2 "!Goody:LP_PCB-Fräse" H 3850 3550 50  0001 C CNN
+F 3 "" H 3900 3550 50  0001 C CNN
+	1    4050 3200
+	0    1    1    0   
+$EndComp
+$Comp
+L 4KanalLLV2-rescue:LP-PCB-Fräse-!PCB-Fräse U25
+U 1 1 613FA2B6
+P 4200 4050
+F 0 "U25" H 3950 4300 50  0001 C CNN
+F 1 "LP-PCB-Fräse" H 4200 4200 50  0001 C CNN
+F 2 "!Goody:LP_PCB-Fräse" H 4000 4400 50  0001 C CNN
+F 3 "" H 4050 4400 50  0001 C CNN
+	1    4200 4050
+	0    1    1    0   
+$EndComp
+$Comp
+L 4KanalLLV2-rescue:LP-PCB-Fräse-!PCB-Fräse U26
+U 1 1 613EFD6F
+P 4450 1550
+F 0 "U26" H 4200 1800 50  0001 C CNN
+F 1 "LP-PCB-Fräse" H 4450 1700 50  0001 C CNN
+F 2 "!Goody:LP_PCB-Fräse" H 4250 1900 50  0001 C CNN
+F 3 "" H 4300 1900 50  0001 C CNN
+	1    4450 1550
+	0    1    1    0   
+$EndComp
+$Comp
+L 4KanalLLV2-rescue:LP-PCB-Fräse-!PCB-Fräse U27
+U 1 1 613F1FF3
+P 4450 1900
+F 0 "U27" H 4200 2150 50  0001 C CNN
+F 1 "LP-PCB-Fräse" H 4450 2050 50  0001 C CNN
+F 2 "!Goody:LP_PCB-Fräse" H 4250 2250 50  0001 C CNN
+F 3 "" H 4300 2250 50  0001 C CNN
+	1    4450 1900
+	0    1    1    0   
+$EndComp
+$Comp
+L 4KanalLLV2-rescue:LP-PCB-Fräse-!PCB-Fräse U28
+U 1 1 613F6009
+P 4450 2400
+F 0 "U28" H 4200 2650 50  0001 C CNN
+F 1 "LP-PCB-Fräse" H 4450 2550 50  0001 C CNN
+F 2 "!Goody:LP_PCB-Fräse" H 4250 2750 50  0001 C CNN
+F 3 "" H 4300 2750 50  0001 C CNN
+	1    4450 2400
+	0    1    1    0   
+$EndComp
+$Comp
+L 4KanalLLV2-rescue:LP-PCB-Fräse-!PCB-Fräse U29
+U 1 1 613F6039
+P 4450 2750
+F 0 "U29" H 4200 3000 50  0001 C CNN
+F 1 "LP-PCB-Fräse" H 4450 2900 50  0001 C CNN
+F 2 "!Goody:LP_PCB-Fräse" H 4250 3100 50  0001 C CNN
+F 3 "" H 4300 3100 50  0001 C CNN
+	1    4450 2750
+	0    1    1    0   
+$EndComp
+$Comp
+L 4KanalLLV2-rescue:LP-PCB-Fräse-!PCB-Fräse U30
+U 1 1 613F7D3A
+P 4450 3200
+F 0 "U30" H 4200 3450 50  0001 C CNN
+F 1 "LP-PCB-Fräse" H 4450 3350 50  0001 C CNN
+F 2 "!Goody:LP_PCB-Fräse" H 4250 3550 50  0001 C CNN
+F 3 "" H 4300 3550 50  0001 C CNN
+	1    4450 3200
+	0    1    1    0   
+$EndComp
+$Comp
+L 4KanalLLV2-rescue:LP-PCB-Fräse-!PCB-Fräse U31
+U 1 1 613FA2B0
+P 4450 3850
+F 0 "U31" H 4200 4100 50  0001 C CNN
+F 1 "LP-PCB-Fräse" H 4450 4000 50  0001 C CNN
+F 2 "!Goody:LP_PCB-Fräse" H 4250 4200 50  0001 C CNN
+F 3 "" H 4300 4200 50  0001 C CNN
+	1    4450 3850
+	0    1    1    0   
+$EndComp
+$Comp
+L 4KanalLLV2-rescue:LP-PCB-Fräse-!PCB-Fräse U32
+U 1 1 613FA2BC
+P 4450 4250
+F 0 "U32" H 4200 4500 50  0001 C CNN
+F 1 "LP-PCB-Fräse" H 4450 4400 50  0001 C CNN
+F 2 "!Goody:LP_PCB-Fräse" H 4250 4600 50  0001 C CNN
+F 3 "" H 4300 4600 50  0001 C CNN
+	1    4450 4250
+	0    1    1    0   
+$EndComp
+$Comp
+L 4KanalLLV2-rescue:LP-PCB-Fräse-!PCB-Fräse U33
+U 1 1 613EFD75
+P 4800 1550
+F 0 "U33" H 4550 1800 50  0001 C CNN
+F 1 "LP-PCB-Fräse" H 4800 1700 50  0001 C CNN
+F 2 "!Goody:LP_PCB-Fräse" H 4600 1900 50  0001 C CNN
+F 3 "" H 4650 1900 50  0001 C CNN
+	1    4800 1550
+	0    1    1    0   
+$EndComp
+$Comp
+L 4KanalLLV2-rescue:LP-PCB-Fräse-!PCB-Fräse U34
+U 1 1 613F1FF9
+P 4800 1900
+F 0 "U34" H 4550 2150 50  0001 C CNN
+F 1 "LP-PCB-Fräse" H 4800 2050 50  0001 C CNN
+F 2 "!Goody:LP_PCB-Fräse" H 4600 2250 50  0001 C CNN
+F 3 "" H 4650 2250 50  0001 C CNN
+	1    4800 1900
+	0    1    1    0   
+$EndComp
+$Comp
+L 4KanalLLV2-rescue:LP-PCB-Fräse-!PCB-Fräse U35
+U 1 1 613F7D40
+P 4800 3200
+F 0 "U35" H 4550 3450 50  0001 C CNN
+F 1 "LP-PCB-Fräse" H 4800 3350 50  0001 C CNN
+F 2 "!Goody:LP_PCB-Fräse" H 4600 3550 50  0001 C CNN
+F 3 "" H 4650 3550 50  0001 C CNN
+	1    4800 3200
+	0    1    1    0   
+$EndComp
+$Comp
+L 4KanalLLV2-rescue:LP-PCB-Fräse-!PCB-Fräse U36
+U 1 1 613FA885
+P 5000 4050
+F 0 "U36" H 4750 4300 50  0001 C CNN
+F 1 "LP-PCB-Fräse" H 5000 4200 50  0001 C CNN
+F 2 "!Goody:LP_PCB-Fräse" H 4800 4400 50  0001 C CNN
+F 3 "" H 4850 4400 50  0001 C CNN
+	1    5000 4050
+	0    1    1    0   
+$EndComp
+$Comp
+L 4KanalLLV2-rescue:LP-PCB-Fräse-!PCB-Fräse U37
+U 1 1 613EFD7B
+P 5250 1550
+F 0 "U37" H 5000 1800 50  0001 C CNN
+F 1 "LP-PCB-Fräse" H 5250 1700 50  0001 C CNN
+F 2 "!Goody:LP_PCB-Fräse" H 5050 1900 50  0001 C CNN
+F 3 "" H 5100 1900 50  0001 C CNN
+	1    5250 1550
+	0    1    1    0   
+$EndComp
+$Comp
+L 4KanalLLV2-rescue:LP-PCB-Fräse-!PCB-Fräse U38
+U 1 1 613F1FFF
+P 5250 1900
+F 0 "U38" H 5000 2150 50  0001 C CNN
+F 1 "LP-PCB-Fräse" H 5250 2050 50  0001 C CNN
+F 2 "!Goody:LP_PCB-Fräse" H 5050 2250 50  0001 C CNN
+F 3 "" H 5100 2250 50  0001 C CNN
+	1    5250 1900
+	0    1    1    0   
+$EndComp
+$Comp
+L 4KanalLLV2-rescue:LP-PCB-Fräse-!PCB-Fräse U39
+U 1 1 613F6015
+P 5250 2400
+F 0 "U39" H 5000 2650 50  0001 C CNN
+F 1 "LP-PCB-Fräse" H 5250 2550 50  0001 C CNN
+F 2 "!Goody:LP_PCB-Fräse" H 5050 2750 50  0001 C CNN
+F 3 "" H 5100 2750 50  0001 C CNN
+	1    5250 2400
+	0    1    1    0   
+$EndComp
+$Comp
+L 4KanalLLV2-rescue:LP-PCB-Fräse-!PCB-Fräse U40
+U 1 1 613F6045
+P 5250 2750
+F 0 "U40" H 5000 3000 50  0001 C CNN
+F 1 "LP-PCB-Fräse" H 5250 2900 50  0001 C CNN
+F 2 "!Goody:LP_PCB-Fräse" H 5050 3100 50  0001 C CNN
+F 3 "" H 5100 3100 50  0001 C CNN
+	1    5250 2750
+	0    1    1    0   
+$EndComp
+$Comp
+L 4KanalLLV2-rescue:LP-PCB-Fräse-!PCB-Fräse U41
+U 1 1 613F82A2
+P 5250 3200
+F 0 "U41" H 5000 3450 50  0001 C CNN
+F 1 "LP-PCB-Fräse" H 5250 3350 50  0001 C CNN
+F 2 "!Goody:LP_PCB-Fräse" H 5050 3550 50  0001 C CNN
+F 3 "" H 5100 3550 50  0001 C CNN
+	1    5250 3200
+	0    1    1    0   
+$EndComp
+$Comp
+L 4KanalLLV2-rescue:LP-PCB-Fräse-!PCB-Fräse U42
+U 1 1 613FA87F
+P 5250 3850
+F 0 "U42" H 5000 4100 50  0001 C CNN
+F 1 "LP-PCB-Fräse" H 5250 4000 50  0001 C CNN
+F 2 "!Goody:LP_PCB-Fräse" H 5050 4200 50  0001 C CNN
+F 3 "" H 5100 4200 50  0001 C CNN
+	1    5250 3850
+	0    1    1    0   
+$EndComp
+$Comp
+L 4KanalLLV2-rescue:LP-PCB-Fräse-!PCB-Fräse U43
+U 1 1 613FA88B
+P 5250 4250
+F 0 "U43" H 5000 4500 50  0001 C CNN
+F 1 "LP-PCB-Fräse" H 5250 4400 50  0001 C CNN
+F 2 "!Goody:LP_PCB-Fräse" H 5050 4600 50  0001 C CNN
+F 3 "" H 5100 4600 50  0001 C CNN
+	1    5250 4250
+	0    1    1    0   
+$EndComp
+$Comp
+L 4KanalLLV2-rescue:LP-PCB-Fräse-!PCB-Fräse U44
+U 1 1 613EFD81
+P 5600 1550
+F 0 "U44" H 5350 1800 50  0001 C CNN
+F 1 "LP-PCB-Fräse" H 5600 1700 50  0001 C CNN
+F 2 "!Goody:LP_PCB-Fräse" H 5400 1900 50  0001 C CNN
+F 3 "" H 5450 1900 50  0001 C CNN
+	1    5600 1550
+	0    1    1    0   
+$EndComp
+$Comp
+L 4KanalLLV2-rescue:LP-PCB-Fräse-!PCB-Fräse U45
+U 1 1 613F2005
+P 5600 1900
+F 0 "U45" H 5350 2150 50  0001 C CNN
+F 1 "LP-PCB-Fräse" H 5600 2050 50  0001 C CNN
+F 2 "!Goody:LP_PCB-Fräse" H 5400 2250 50  0001 C CNN
+F 3 "" H 5450 2250 50  0001 C CNN
+	1    5600 1900
+	0    1    1    0   
+$EndComp
+$Comp
+L 4KanalLLV2-rescue:LP-PCB-Fräse-!PCB-Fräse U46
+U 1 1 613F82A8
+P 5600 3200
+F 0 "U46" H 5350 3450 50  0001 C CNN
+F 1 "LP-PCB-Fräse" H 5600 3350 50  0001 C CNN
+F 2 "!Goody:LP_PCB-Fräse" H 5400 3550 50  0001 C CNN
+F 3 "" H 5450 3550 50  0001 C CNN
+	1    5600 3200
+	0    1    1    0   
+$EndComp
+$EndSCHEMATC
