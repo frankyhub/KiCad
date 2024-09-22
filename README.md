@@ -2,10 +2,10 @@
 
 <div align="center">
 
-  |[:skull:ISSUE](https://github.com/frankyhub/KiCad-Loetuebung-01/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/KiCad-Loetuebung-01/discussions)|[:grey_question:WiKi](https://github.com/frankyhubKiCad-Loetuebung-01/wiki)|
+  |[:skull:ISSUE](https://github.com/frankyhub/KiCad-Loetuebung-01/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/KiCad-Loetuebung-01/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/KiCad-Loetuebung-01/wiki)|
 |--|--|--|
 | | | |
-|![GitHub issues](https://img.shields.io/github/issues/frankyhub/KiCad-Loetuebung-01)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhubKiCad-Loetuebung-01)|![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/KiCad-Loetuebung-01)|![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhubKiCad-Loetuebung-01)|
+|![GitHub issues](https://img.shields.io/github/issues/frankyhub/KiCad-Loetuebung-01)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/KiCad-Loetuebung-01)|![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/KiCad-Loetuebung-01)|![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/KiCad-Loetuebung-01)|
 |![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/finaldie/skull.svg)[](https://github.com/frankyhub/KiCad-Loetuebung-01/pulls)|[<img src="https://img.shields.io/github/license/finaldie/skull.svg">](https://github.com/frankyhub/KiCad-Loetuebung-01/blob/main/LICENSE.md)| ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)|
 </div>
 
