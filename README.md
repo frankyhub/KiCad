@@ -42,8 +42,8 @@
 |4 x LED 5mm		|:white_check_mark:|:x:|:x:|
 |4 x 100uF		|:white_check_mark:|:x:|:x:|
 |1 x C1	47uF		|:x:|:white_check_mark:|:white_check_mark:|
-|2 x Trimmer 10k	|:x:|:white_check_mark:|
-|10 x LED 3mm		|:x:|:white_check_mark:|
+|2 x Trimmer 10k	|:x:|:x:|:white_check_mark:|
+|10 x LED 3mm		|:x:|:x:|:white_check_mark:|
 |                       |~10,-|~10,-|~12,-| 
 
 ---
