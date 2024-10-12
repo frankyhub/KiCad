@@ -1,14 +1,15 @@
 <a name="oben"></a>
 
-
 <div align="center">
 
-  |[:skull:ISSUE](https://github.com/frankyhub/KiCad-Loetuebung-01/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/KiCad-Loetuebung-01/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/KiCad-Loetuebung-01/wiki)|
-|--|--|--|
-| | | |
-|![GitHub issues](https://img.shields.io/github/issues/frankyhub/KiCad-Loetuebung-01)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/KiCad-Loetuebung-01)|![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/KiCad-Loetuebung-01)|![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/KiCad-Loetuebung-01)|
-|![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/finaldie/skull.svg)[](https://github.com/frankyhub/KiCad-Loetuebung-01/pulls)|[<img src="https://img.shields.io/github/license/finaldie/skull.svg">](https://github.com/frankyhub/KiCad-Loetuebung-01/blob/main/LICENSE.md)| ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)|
+|[:skull:ISSUE](https://github.com/frankyhub/KiCad-Loetuebung-01/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/KiCad-Loetuebung-01/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/KiCad-Loetuebung-01/wiki)||
+|--|--|--|--|
+| | | | |
+|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2077-blue)|<a href="https://github.com/frankyhub/KiCad-Loetuebung-01/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/KiCad-Loetuebung-01)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/KiCad-Loetuebung-01)|<a href="https://github.com/frankyhub/KiCad-Loetuebung-01/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/KiCad-Loetuebung-01)|<a href="https://github.com/frankyhub/KiCad-Loetuebung-01/releases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/KiCad-Loetuebung-01)|
+|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/KiCad-Loetuebung-01)| <a href="https://github.com/frankyhub/KiCad-Loetuebung-01/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/KiCad-Loetuebung-01/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)|
 </div>
+
+
 
 
 ## Loetübung 01
